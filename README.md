@@ -1,8 +1,14 @@
 # Hi, I'm Raja Uzair Saeed 👋
 
-**Data Scientist & Data Engineer** · MSc in Statistics and Machine Learning, Linköping University
+**Product Manager at Simplihuman** · MSc in Statistics and Machine Learning, Linköping University
 
-I build end-to-end data solutions — from cloud data pipelines and SQL data models to statistical analysis, machine-learning models and the apps and dashboards that put them in front of users.
+I work where product and data meet: shaping what gets built, checking that it works, and measuring whether it helped users. My background is in data science and data engineering, from cloud pipelines and SQL data models to statistical analysis and machine learning.
+
+### 💼 What I do now
+- **Product ownership:** I look after the product and data side at Simplihuman and turn user needs into prioritised features.
+- **Feature design:** I design new features and work with engineering from idea to release.
+- **QA and testing:** I take an active part in QA, from writing test cases to testing features before release.
+- **User feedback:** I collect and analyse user feedback and test results, and feed what I learn back into the roadmap.
 
 ### 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -34,4 +40,4 @@ I build end-to-end data solutions — from cloud data pipelines and SQL data mod
 - [**Data Analysis & Visualization**](https://github.com/rjuzair/GDP-and-life-expentancy-Analysis) — GDP vs life expectancy, an interactive airline-performance Dash app, and data-cleaning case studies.
 
 ### 📫 Get in touch
-Open to data science and data engineering opportunities — feel free to reach out via GitHub.
+Happy to connect about product management, data and analytics. Reach out via GitHub.
