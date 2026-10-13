@@ -24,6 +24,12 @@ I work where product and data meet: shaping what gets built, checking that it wo
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+### 🧭 Product management
+
+| Project | Description | Skills |
+|---|---|---|
+| [**Product Management Case Study**](https://github.com/rjuzair/product-management-case-study) | One feature taken from a retention problem to a launch decision: funnel and feedback analysis, RICE prioritisation, PRD, wireframes, risk-based QA test plan and an A/B test (+4.5 pp day-7 retention) | Discovery · PRDs · QA · Experimentation |
+
 ### 🚀 Featured projects
 
 | Project | Description | Stack |
