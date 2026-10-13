@@ -28,16 +28,16 @@ I work where product and data meet: shaping what gets built, checking that it wo
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Azure Customer Retention Pipeline**](https://github.com/rjuzair/CPI-Azure-Data-Pipeline) | Medallion-architecture pipeline (bronze → silver → gold) that turns raw sales data into churn and retention analytics, with a live Power BI dashboard | ADF · Databricks · PySpark · Synapse · Power BI |
-| [**Titanic Survival Prediction API**](https://github.com/rjuzair/Titanic-Survival-Predictor) | Feature engineering, cross-validated comparison of 20+ classifiers and a deployed web app serving the ~82%-accurate ensemble | scikit-learn · FastAPI · Render |
-| [**Aerial Surveillance Change Detection**](https://github.com/rjuzair/Design-Prototyping-of-Semi-Autonomous-Aerial-Surveillance-System) | Drone-footage change detection against a reference map with GPU-accelerated SIFT, differencing and morphology | OpenCV · OpenCL · PyOpenCL |
-| [**Flight Reservation Database**](https://github.com/rjuzair/Portfolio) | Airline booking system with dynamic pricing implemented in stored procedures, functions, triggers and views | MySQL · MariaDB |
-| [**Statistical Computing with R**](https://github.com/rjuzair/Lab04) | Tested R packages (QR linear regression, knapsack solvers, air-quality API + Shiny) and ML reports | R · testthat · Shiny |
-| [**Markov Chain Text Generator**](https://github.com/rjuzair/Markov-Text-Generator) | Corpus statistics and Markov-chain text generation trained on the complete works of Shakespeare | Python (stdlib) |
+| [**Azure Customer Retention Pipeline**](https://github.com/rjuzair/azure-customer-retention-pipeline) | Medallion-architecture pipeline (bronze → silver → gold) that turns raw sales data into churn and retention analytics, with a live Power BI dashboard | ADF · Databricks · PySpark · Synapse · Power BI |
+| [**Titanic Survival Prediction API**](https://github.com/rjuzair/titanic-survival-prediction-api) | Feature engineering, cross-validated comparison of 20+ classifiers and a deployed web app serving the ~82%-accurate ensemble | scikit-learn · FastAPI · Render |
+| [**Aerial Surveillance Change Detection**](https://github.com/rjuzair/aerial-surveillance-change-detection) | Drone-footage change detection against a reference map with GPU-accelerated SIFT, differencing and morphology | OpenCV · OpenCL · PyOpenCL |
+| [**Flight Reservation Database**](https://github.com/rjuzair/flight-reservation-database) | Airline booking system with dynamic pricing implemented in stored procedures, functions, triggers and views | MySQL · MariaDB |
+| [**Statistical Computing with R**](https://github.com/rjuzair/statistical-computing-with-r) | Tested R packages (QR linear regression, knapsack solvers, air-quality API + Shiny) and ML reports | R · testthat · Shiny |
+| [**Markov Chain Text Generator**](https://github.com/rjuzair/markov-chain-text-generator) | Corpus statistics and Markov-chain text generation trained on the complete works of Shakespeare | Python (stdlib) |
 
 ### 📊 Analysis collections
-- [**Statistical Analysis & A/B Testing**](https://github.com/rjuzair/Analyzing-Farmburg-s-A-B-Test) — experiment design, power analysis, t-tests, ANOVA, chi-square and binomial tests on business and health data.
-- [**Data Analysis & Visualization**](https://github.com/rjuzair/GDP-and-life-expentancy-Analysis) — GDP vs life expectancy, an interactive airline-performance Dash app, and data-cleaning case studies.
+- [**Statistical Analysis & A/B Testing**](https://github.com/rjuzair/statistical-analysis-and-ab-testing) — experiment design, power analysis, t-tests, ANOVA, chi-square and binomial tests on business and health data.
+- [**Data Analysis & Visualization**](https://github.com/rjuzair/data-analysis-and-visualization) — GDP vs life expectancy, an interactive airline-performance Dash app, and data-cleaning case studies.
 
 ### 📫 Get in touch
 Happy to connect about product management, data and analytics. Reach out via GitHub.
